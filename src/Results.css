@@ -1,0 +1,17 @@
+/* src/components/Results.css */
+
+.results-page {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .winner {
+    margin-top: 20px;
+  }
+  
+  .winner img {
+    max-width: 300px;
+    max-height: 300px;
+    margin-bottom: 10px;
+  }
+  
